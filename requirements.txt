@@ -1,1 +1,6 @@
+streamlit
+pandas as pd
 folium
+st_folium
+plotly.graph_objects
+plotly.express
